@@ -1,1 +1,1 @@
-# Digital-IC-Design_Final-Project
+# Digital IC Design_Final Project
